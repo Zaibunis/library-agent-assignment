@@ -48,20 +48,20 @@ Install dependencies:
 uv add openai-agents python-dotenv
 ```
 
-Activate it:
+## Activate it:
 
-# On Linux/Mac
+On Linux/Mac
 ```bash
 source .venv/bin/activate
 ```
 
-# On Windows
+On Windows
 ```bash
 .venv\Scripts\activate
 ```
 ---
 
-##▶️ Usage
+## ▶️ Usage
 Run the assistant:
 
 ```bash
@@ -70,7 +70,7 @@ uv run main.py
 
 ---
 
-##💡 Example Queries
+## 💡 Example Queries
 
 Try asking the assistant:
 
@@ -83,3 +83,4 @@ Try asking the assistant:
 ---
 
 Made with ❤ by [Faria Mustaqim](https://github.com/Zaibunis)
+
