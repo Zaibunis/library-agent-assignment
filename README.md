@@ -74,7 +74,7 @@ uv run main.py
 
 Try asking the assistant:
 
-1. "Search for the book 'Atomic Habits'."
+1. "Harry Potter book availability?"
 
 2. "Is 'The Great Gatsby' available for member ID 123?"
 
@@ -83,4 +83,5 @@ Try asking the assistant:
 ---
 
 Made with ❤ by [Faria Mustaqim](https://github.com/Zaibunis)
+
 
